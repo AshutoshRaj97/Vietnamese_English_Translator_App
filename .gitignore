@@ -1,4 +1,12 @@
-node_modules
+# Next.js build & cache files
+.next/
 node_modules/
-.env
+backup_repo/
+Vietnamese_English_Translator_App/
+
+# Environment & dependency files
+.env.next/
+node_modules/
+backup_repo/
+Vietnamese_English_Translator_App/
 .env
